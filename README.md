@@ -121,7 +121,8 @@ An interactive web application for learning AP Chemistry with comprehensive cont
 
 ```
 AP Chemistry Interactive/
-├── index.html              # Main HTML file
+├── index.html             # Main HTML file
+├── images/                # Images in the Study Guide
 ├── styles/
 │   └── main.css           # Main stylesheet
 ├── js/
