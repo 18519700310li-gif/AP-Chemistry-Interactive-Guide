@@ -1,0 +1,429 @@
+
+
+================================================================================
+UNIT 1
+================================================================================
+
+<p>The Periodic Table</p>
+	
+	<p>[Image: Image]</p>
+	<p>https://ptable.com/?lang=en#Properties</p>
+	
+	<p>The periodic table gives you very <strong>basic but essential</strong> information about each element, take carbon for example:</p>
+	<p>[Image: 图片包含 形状
+
+描述已自动生成]</p>
+	<p>Pictured above is the element carbon, as displayed on the periodic table.</p>
+	<ul>
+	<li>The <strong>symbol </strong>(C) tells you the name carbon. C and carbon can be used interchangeably.</li>
+	<li>The <strong>atomic number</strong> (6) tells you <strong>how many protons and neutrons</strong> are in the element in addition to <strong>the number of electrons</strong> surrounding the element when it is<strong> neutrally charged</strong>.</li>
+</ul>
+	
+	<ul>
+	<li>The <strong>molar mass</strong> (12.011) tells you two things:</li>
+</ul>
+	<p>The average atomic mass of <strong>a single atom of carbon</strong>, measured in <strong>atomic mass units</strong> (amu)</p>
+	<p>The average mass of <strong>a mole of carbon atoms</strong> is measured in<strong> grams</strong>. 12.011 is how many grams of carbon atoms there are in a mole.</p>
+	
+	<ul>
+	<li><strong>Horizontal</strong> rows of the periodic table are called <strong>periods</strong>.</li>
+</ul>
+	<p><strong>Vertical</strong> columns are called <strong>groups.</strong></p>
+	
+	<ul>
+	<li><strong>Groups</strong> can be numbered in Roman numerals or simply as 1-18, but some are also <strong>named.</strong></li>
+</ul>
+	<p>Group IA/1-- <strong>Alkali Metals</strong></p>
+	<p>Group IIA/2 -- <strong>Alkaline Earth Metals</strong></p>
+	<p>Group B/3-12 -- <strong>Transition Metals</strong></p>
+	<p>Group VIIA/17 -- <strong>Halogens</strong></p>
+	<p>Group VIIIA/18 -- <strong>Noble Gases</strong></p>
+	
+	<ul>
+	<li>There are also two rows beneath the periodic table: the lanthanides and actinides, the rare Earth elements, or inner transition metals.</li>
+</ul>
+	
+	<ul>
+	<li>The <strong>identity</strong> of an atom is determined by <strong>the number of protons</strong> i
+...
+
+
+================================================================================
+UNIT 2
+================================================================================
+
+<p>Bonds Overview</p>
+	<ul>
+	<li>Atoms engage in <strong>bonding</strong> to share electrons and <strong>achieve a stable, lower-energy state</strong>. This bonding can either be <strong>ionic</strong> which an atom gives the electron away, or it can be <strong>covalent</strong> which they share the electron.</li>
+</ul>
+	<p>[Image: Chemical bonding | Definition, Types, & Examples | Britannica]</p>
+	<p>The Octet Rule</p>
+	<ul>
+	<li>The octet rule is a chemical rule of thumb that reflects the theory that <strong>main-group elements</strong> tend to bond in such a way that <strong>each atom has eight electrons in its valence shell</strong>, giving it the same electronic configuration as a noble gas. The rule is especially applicable to carbon, nitrogen, oxygen, and halogens, although more generally the rule applies to the s-block and p-block of the periodic table. Other rules exist for other elements, such as the duplet rule for hydrogen and helium, and the 18-electron rule for transition metals.</li>
+</ul>
+	<p>[Image: Octet Rule: Definition and Examples]</p>
+	<p>Ionic Bonds</p>
+	<ul>
+	<li><strong>ionic bonds</strong> are between a <strong>nonmetal</strong> and a <strong>metal</strong> held together in a lattice structure by electrostatic attraction. To bond, the cation gives up the electron(s) entirely to the anion.</li>
+</ul>
+	<p>• The elements are held together by electrostatic force because the positively charged cation is attracted to the negatively charged anion.</p>
+	<p>[Image: Image]</p>
+	
+	<ul>
+	<li>Any substance that is held together by ionic bonds will be strong, usually <strong>solid</strong> at room temperature, and have <strong>very high melting and boiling points</strong>.</li>
+</ul>
+	<p>• Melting point for ionic substances can vary depending on the charge. Per Coulomb's Law, a greater charge leads to greater bond energy (MgO with a charge of +2/-2 has a stronger bond than NaCl with a charge of +1/-1).</p>
+	<p>• if the charges are the same, then the size
+...
+
+
+================================================================================
+UNIT 3
+================================================================================
+
+<p>Polarity</p>
+	<ul>
+	<li>When a covalent bond is formed and electrons are shared, they are shared unequally. The more electronegative elements in the bond, the stronger the pull-on electrons. The unequal share of electrons is called a <strong>polar covalent</strong> bond which also causes a slight partial charge on each atom.</li>
+</ul>
+	
+	<ul>
+	<li>When there's a slight charge, dipoles are created. <strong>Dipoles</strong> are opposite charges separated by some distance. Partial charges are indicated using the lowercase Greek letter delta.</li>
+</ul>
+	
+	<p>[Image: Image]</p>
+	<ul>
+	<li>When there's a covalent bond of equal or similar electronegativity, there is no dipole, and it is a <strong>nonpolar covalent bond</strong>.</li>
+</ul>
+	
+	<p>Molecular Polarity</p>
+	<ul>
+	<li>Based on the type of molecular geometry and the dipoles of bonds, molecules can have polarity.</li>
+</ul>
+	
+	
+	
+	<p>[Image: Image]</p>
+	<ul>
+	<li>In carbon tetrafluoride, the individual carbon-fluorine bonds are polar but because there are four C-F bonds and they are geometrically organized in a way that they cancel out, the molecule is nonpolar.</li>
+</ul>
+	
+	<p>[Image: Image]</p>
+	<ul>
+	<li>In NF3, only three of the four bonding locations have fluorine, with the last being unfilled by a lone pair that belongs to nitrogen. Fluorine is more electronegative than nitrogen, so it gets a negative charge.</li>
+	<li>Typically, if the central atom has a lone pair and is different than the bonded atoms, it is asymmetrical and therefore polar. If the central atom has no lone pairs and all of the bonded atoms are the same, it is symmetrical and nonpolar.</li>
+	<li> </li>
+</ul>
+	<p>• lone pairs on the central atom make a molecule polar, but there are a few exceptions: trigonal planar with three lone pairs or octahedral with two lone pairs.</p>
+	
+	<ul>
+	<li>Because in Lewis dot structures the least electronegative atom is in the center, polar molecules usually have a central positive charge. However, when
+...
+
+
+================================================================================
+UNIT 4
+================================================================================
+
+<p>Types of Reactions</p>
+	<ul>
+	<li><span class="text_17">Synthesis reaction: when elements or simple compounds are combined to form a single, more complex compound. A+B </span><span class="text_18">→</span><span class="text_17"> AB</span></li>
+</ul>
+	
+	<ul>
+	<li><span class="text_17">Decomposition: opposite of synthesis-occurs usually in the presence of heat. AB </span><span class="text_18">→</span><span class="text_17"> A + B</span></li>
+</ul>
+	
+	<ul>
+	<li><span class="text_17">Acid-base: when an acid (H<sup>+</sup>) reacts with a base (OH<sup>-</sup>) to form water and a salt. HCl (aq) + NaOH (aq) </span><span class="text_18">→</span><span class="text_17"> NaCI (aq) + H<sub>2</sub>O (l)</span></li>
+</ul>
+	
+	<ul>
+	<li><span class="text_17">Oxidation-reduction (redox): results in a change of oxidation state (only for some). Cu<sup>2+</sup> (aq) + 2 e<sup>-</sup> </span><span class="text_18">→</span><span class="text_17"> Cu (s)</span></li>
+</ul>
+	
+	<ul>
+	<li><span class="text_17">Hydrocarbon combustion: carbon + hydrogen (and sometimes oxygen) is ignited and produces CO<sub>2</sub> and water, sometimes other compounds as well depending on the elements present. C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> </span><span class="text_18">→</span><span class="text_17"> CO<sub>2</sub> + H<sub>2</sub>O</span></li>
+</ul>
+	
+	<ul>
+	<li><span class="text_17">Precipitation: two aqueous solutions mix to create a solid precipitate. A (aq) + B (aq) </span><span class="text_18">→</span><span class="text_17"> C (aq) + D (s)</span></li>
+</ul>
+	
+	<p>• Some solubility rules:</p>
+	<p>Compounds with alkali metals and ammonium are always soluble.</p>
+	<p>Compounds with nitrate are always soluble.</p>
+	
+	<p>Chemical Equations</p>
+	<p>Balancing Chemical Equations and Calculations</p>
+	<ul>
+	<li>Stoichiometry steps:</li>
+</ul>
+	<p><span class="text_17">Covert given quantity to moles </span><span class="text_18">→</span><span class="text_17"> use equation coefficients to determine limiting re
+...
+
+
+================================================================================
+UNIT 5
+================================================================================
+
+<p>Rate Law Using Initial Concentrations</p>
+	<ul>
+	<li>The rate law of a reaction is based on the initial concentrations of the reactants, the rate at the disappearance of products, and the appearance of products, and requires experimental data. Arrhenius constant, k, is based on the activation energy and temperature of a reaction.</li>
+</ul>
+	
+	<p>How to do it:</p>
+	<p>怎么做：</p>
+	<p>1. Rate Calculation by definition:</p>
+	<p>[Image: Image]</p>
+	<p>We have:</p>
+	<p>[Image: 图片包含 图示
+
+描述已自动生成]</p>
+	
+	<p>2. “Initial Rate” VS. “Initial Concentration” :</p>
+	
+	<p>E.g.</p>
+	<p>A+ 2B + C → D</p>
+	<table class="table_">
+		<tbody class="calibre47"><tr class="calibre48">
+			<td class="td_8"><p>experiment</p></td>
+			<td class="td_1"><p>initial [a] (M)</p></td>
+			<td class="td_1"><p>INITIAL [B] (M)</p></td>
+			<td class="td_1"><p>INITIAL [C] (M)</p></td>
+			<td class="td_2"><p>initial rate of formation of D (M/sec)</p></td>
+		</tr>
+		<tr class="calibre48">
+			<td class="td_9"><p>1</p></td>
+			<td class="td_4"><p>0.1</p></td>
+			<td class="td_4"><p>0.1</p></td>
+			<td class="td_4"><p>0.1</p></td>
+			<td class="td_4"><p>0.01</p></td>
+		</tr>
+		<tr class="calibre48">
+			<td class="td_10"><p>2</p></td>
+			<td class="td_6"><p>0.1</p></td>
+			<td class="td_6"><p>0.1</p></td>
+			<td class="td_6"><p>0.2</p></td>
+			<td class="td_6"><p>0.01</p></td>
+		</tr>
+		<tr class="calibre48">
+			<td class="td_9"><p>3</p></td>
+			<td class="td_4"><p>0.1</p></td>
+			<td class="td_4"><p>0.2</p></td>
+			<td class="td_4"><p>0.1</p></td>
+			<td class="td_4"><p>0.02</p></td>
+		</tr>
+		<tr class="calibre48">
+			<td class="td_10"><p>4</p></td>
+			<td class="td_6"><p>0.2</p></td>
+			<td class="td_6"><p>0.2</p></td>
+			<td class="td_6"><p>0.1</p></td>
+			<td class="td_6"><p>0.08</p></td>
+		</tr>
+	</tbody></table>
+	
+	<p>We have:</p>
+	<p>[Image: Image]</p>
+	<p>Or</p>
+	<p>[Image: 文本
+
+描述已自动生成]</p>
+	
+	<p>The value of the exponent is based on how the reactants affect the rate. A larger exponent means the reactant
+...
+
+
+================================================================================
+UNIT 6
+================================================================================
+
+<p>Heat and Temperature</p>
+	<ul>
+	<li><strong>Temperature</strong> is the average amount of kinetic energy based on the molecular motion of a substance.</li>
+</ul>
+	
+	<ul>
+	<li><strong>Heat</strong> is the flow of energy between two substances at different temperatures.</li>
+</ul>
+	
+	<ul>
+	<li><strong>The first law of thermodynamics</strong> states energy cannot be created or destroyed and can only transfer or change forms. Energy transfers through molecular collisions.</li>
+</ul>
+	
+	<ul>
+	<li><strong>Exothermic</strong> is when energy is transferred from the system to the surroundings, such as when a chemical reaction occurs in a beaker and the beaker feels hot. <strong>Endothermic</strong> reactions occur when a system absorbs the energy from the surroundings, such as when a beaker feels cold.</li>
+</ul>
+	
+	<p>[Image: Difference Between Heat and Temperature in Simple Terms | YourDictionary]</p>
+	
+	
+	
+	<p>Enthalpy</p>
+	<p><span class="text_">Enthalpy Change, </span><span class="text_1">Δ</span><span class="text_">H</span></p>
+	<ul>
+	<li>Enthalpy change is the measure of energy that is released or absorbed when bonds are broken/formed.</li>
+</ul>
+	<p>• When bonds are formed, energy is released. When bonds are broken, energy is absorbed.</p>
+	
+	<ul>
+	<li>If more energy is released than absorbed in a reaction, then it is exothermic and has negative enthalpy change. If more energy is absorbed than released in a reaction, then it is endothermic and has a positive enthalpy change.</li>
+</ul>
+	<p>[Image: CHEM 101 - Enthalpy]</p>
+	
+	<p>Energy Diagrams</p>
+	<p>Exothermic and Endothermic Reactions</p>
+	<ul>
+	<li>When products have a lower energy than the reactants, the ΔH is negative and it is an exothermic reaction.</li>
+</ul>
+	<p>[Image: Exothermic Reaction]</p>
+	
+	<ul>
+	<li>When reactants have a lower energy than the products, the ΔH is positive and it is an endothermic reaction.</li>
+</ul>
+	<p>[Image: Endothermic Reaction]</p>
+	
+	<p>Catalyst and Energy Diagrams</p>
+	<ul
+...
+
+
+================================================================================
+UNIT 7
+================================================================================
+
+<p>The Equilibrium Constant, Keq</p>
+	<ul>
+	<li>In equilibrium reactions, the reaction is reversible, where the reactants from products and then go back to reactants constantly.</li>
+</ul>
+	<p><span class="text_17"> E.g. : In the Haber process, the industrial production of ammonia, N<sub>2</sub>+3H<sub>2</sub> </span><span class="text_16">⇌</span><span class="text_17"> 2NH<sub>3</sub>, the reaction is reversible.</span></p>
+	<p>[Image: 图表, 图示
+
+描述已自动生成]</p>
+	<ul>
+	<li>At the equilibrium point, the amount of reactants and products has stopped changing, but the reaction is still occurring, the forward and reverse reactions are equal.</li>
+</ul>
+	
+	<ul>
+	<li>The coefficients determine at what rate a substance is created or consumed. The H<sub>2</sub> is consumed three times faster than the N<sub>2</sub>, so it is a steeper slope when they are initially the same concentration.</li>
+</ul>
+	
+	<ul>
+	<li>The Law of Mass Action is the equilibrium expression that determines the relationship between reactant and product concentrations.</li>
+</ul>
+	
+	<p>For the reaction like:</p>
+	<p>[Image: Image]</p>
+	
+	<p>The equilibrium constant equals to:</p>
+	<p>[Image: Image]</p>
+	<p>[A], [B], [C], [D] are the molar concentrations or partial pressures at equilibrium</p>
+	<p>Divide the products by the reactants</p>
+	<p>Only gasses and aqueous solutions are in the equilibrium expression</p>
+	<p>No units for Keq because the concentration and pressure are relative.</p>
+	<p>A Keq > 1 means the products are favored over reactants. A Keq < 1 means reactants are favored over products.</p>
+	<p>This form of equilibrium is also denoted as K<sub>c</sub></p>
+	<p>For gases, the concentration can be represented by the partial pressure of the gas.</p>
+	<p>[Image: Image]</p>
+	<p>Equation (1)</p>
+	
+	<p>How to derive the relationship between Kp and Kc:</p>
+	<p>We know that:</p>
+	<p>[Image: Image]</p>
+	
+	<p>Therefore:</p>
+	<p>[Image: 手机屏幕截图
+
+中度可信度描述已自动生成]</p>
+	<p>We know that Concentration C=n/V</p>
+	<p>Subs
+...
+
+
+================================================================================
+UNIT 8
+================================================================================
+
+<p>pH</p>
+	<p>Concentration equations are usually in pH.</p>
+	<p>[Image: 文本
+
+描述已自动生成]</p>
+	<p>[Image: Image]</p>
+	<p>[Image: 文本, 图标
+
+描述已自动生成]</p>
+	<p>In a solution</p>
+	<ul class="list_1">
+	<li>If [H+] = [OH-] the solution is neutral with a pH is 7</li>
+	<li>If [H+] > [OH-] the solution is acidic with a pH of <7</li>
+	<li>If [H+] < [OH-] the solution is basic with a pH >7</li>
+</ul>
+	<p>Increasing pH means decreasing [H+] and making a solution less acidic.</p>
+	<p>Decreasing pH means increasing [H+] and making a solution more acidic.</p>
+	<p>Some hydroxide salts will not dissolve in high pH because of the common ion effect.</p>
+	<ul class="list_1">
+	<li><span class="text_17">In the equation Mg(OH)2 (s) </span><span class="text_16">⇌</span><span class="text_17"> Mg2+ (aq) +2OH-(aq)</span></li>
+	<li>If the salt is added to a solution with significant hydroxide ions in it, it will shift to the left and decrease the amount of salt dissolving. If added to a solution with an abundance of hydrogen ions, it will dissolve more because the hydrogen and hydroxide will react, creating fewer hydroxides in the solution, and the salt to dissolve more.</li>
+</ul>
+	
+	<p>Acid and Base Strengths</p>
+	<p>Strong Acid and Strong Bases</p>
+	<p>Strong acids will dissolve completely in water and never reach equilibrium. There is no equilibrium constant for strong acids or bases because of no equilibrium.</p>
+	
+	<p>Important strong acids</p>
+	<p>HCl, HBr, HI, HNO<sub>3</sub>, HClO<sub>4</sub>, H2SO<sub>4</sub></p>
+	
+	<p>Important strong bases</p>
+	<p>LiOH, NaOH, KOH, Ba(OH)<sub>2</sub>, Sr(OH)<sub>2</sub></p>
+	
+	<p>Because completion occurs, the conjugate base of the acid must be extremely weak.</p>
+	<p>Finding the pH of strong acids is easier than finding the pH of weak acids because strong acids will dissociate completely while weak acids will only partly dissociate, so the concentration of hydrogen ions is different in the beginning versus the end.</p>
+	
+	<p>Weak Acid and Weak Bases</p>
+	
+...
+
+
+================================================================================
+UNIT 9
+================================================================================
+
+<p>Entropy</p>
+	<p>Entropy, S, is the amount of disorder or chaos in a system. More disorder, greater S value.</p>
+	<p>Standard entropy is S° and measured at 25 Celsius.</p>
+	<p>Standard entropy change ∆S° is measured at the end of a reaction.</p>
+	
+	<p>∆S° = (sum of ∆S° products) - (sum of ∆S° reactants)</p>
+	
+	<p>If a reaction goes from fewer moles to more moles (such as 2 moles on the reactant side to 3 moles on the product side) there is more disorder and a positive ∆S</p>
+	
+	<p>If a reaction goes from a gas to liquid, liquid to solid, or gas to solid, the reaction has a negative ∆S.</p>
+	
+	<p>If bonds are broken and phase change becomes more disordered, the ∆S is positive.</p>
+	
+	<p>FOR MORE INFORMATION:</p>
+	<p><span class="text_8">DERIVATION OF THE BOLTZMANN ENTROPY EQUATION: </span>https://book.yunzhan365.com/rkepx/tutq/mobile/index.html</p>
+	
+	<p>Gibbs Free Energy</p>
+	<p>∆G is Gibbs Free Energy which determines if a process is thermodynamically favored or unfavored, also known as spontaneous or nonspontaneous.</p>
+	
+	<p>Free Energy Change</p>
+	<p>Standard free energy change, ∆G°, is calculated the same as ∆S°</p>
+	
+	<p>∆G° = (sum of ∆G° products) - (sum of ∆G° reactants)</p>
+	
+	<p>For a reaction,</p>
+	<p>If ∆G is negative, it is TFP (thermodynamically favored process)</p>
+	<p>If ∆G is positive, it is not TFP.</p>
+	<p>If ∆G is 0, it is at equilibrium.</p>
+	
+	<p>∆G, ∆H, and ∆S</p>
+	<p>TFP must result in decreasing enthalpy, increasing entropy, or both.</p>
+	<p>[Image: Image]</p>
+	
+	<p>T = temperature in Kelvin</p>
+	<p>∆S° is usually given in j/mol*K and must be converted to kJ/mol*K</p>
+	<p>Gibbs Free Energy is usually kJ/mol*K</p>
+	
+	<p>[Image: A table with three columns and four rows is shown. The first column has the phrase, “Delta S greater than zero ( increase in entropy ),” in the third row and the phrase, “Delta S less than zero ( decrease in entropy),” in the fourth row. The second and third columns have the phrase, “Summary of the Four Scenarios for
+...

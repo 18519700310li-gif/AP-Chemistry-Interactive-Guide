@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AP Chemistry Interactive Learning Guide</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h1>AP Chemistry</h1>
+                <p class="subtitle">Interactive Learning Guide</p>
+            </div>
+            <nav class="sidebar-nav">
+                <div class="nav-section">
+                    <h3>Learning Guide</h3>
+                    <ul class="nav-list" id="units-list">
+                        <li><a href="#" data-section="unit1">Unit 1: Atomic Structure</a></li>
+                        <li><a href="#" data-section="unit2">Unit 2: Molecular Structure</a></li>
+                        <li><a href="#" data-section="unit3">Unit 3: Intermolecular Forces</a></li>
+                        <li><a href="#" data-section="unit4">Unit 4: Chemical Reactions</a></li>
+                        <li><a href="#" data-section="unit5">Unit 5: Kinetics</a></li>
+                        <li><a href="#" data-section="unit6">Unit 6: Thermodynamics</a></li>
+                        <li><a href="#" data-section="unit7">Unit 7: Equilibrium</a></li>
+                        <li><a href="#" data-section="unit8">Unit 8: Acids and Bases</a></li>
+                        <li><a href="#" data-section="unit9">Unit 9: Applications</a></li>
+                    </ul>
+                </div>
+                <div class="nav-section">
+                    <h3>Tools</h3>
+                    <ul class="nav-list">
+                        <li><a href="#" data-section="calculators">Calculators</a></li>
+                        <li><a href="#" data-section="molecular-viewer">Molecular Viewer</a></li>
+                        <li><a href="#" data-section="gaussian-parser">Gaussian Parser</a></li>
+                        <li><a href="#" data-section="titration">Titration Simulation</a></li>
+                        <li><a href="#" data-section="periodic-table">Periodic Table</a></li>
+                        <li><a href="#" data-section="saved-data">Saved Data</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <div class="content-header">
+                <h2 id="page-title">Welcome to AP Chemistry Interactive Learning Guide</h2>
+                <button class="menu-toggle" id="menu-toggle">☰</button>
+            </div>
+            <div class="content-body" id="content-body">
+                <div class="welcome-screen">
+                    <h2>Welcome!</h2>
+                    <p>Select a unit from the sidebar to begin learning, or explore the interactive tools.</p>
+                    <div class="feature-grid">
+                        <div class="feature-card" data-nav="unit1" style="cursor: pointer;">
+                            <h3>📚 Study Guide</h3>
+                            <p>9 comprehensive units covering all AP Chemistry topics</p>
+                        </div>
+                        <div class="feature-card" data-nav="calculators" style="cursor: pointer;">
+                            <h3>🧮 Calculators</h3>
+                            <p>15+ chemistry calculation tools</p>
+                        </div>
+                        <div class="feature-card" data-nav="molecular-viewer" style="cursor: pointer;">
+                            <h3>🔬 Molecular Viewer</h3>
+                            <p>3D visualization of molecular structures</p>
+                        </div>
+                        <div class="feature-card" data-nav="gaussian-parser" style="cursor: pointer;">
+                            <h3>⚛️ Gaussian Parser</h3>
+                            <p>Upload and analyze quantum chemistry results</p>
+                        </div>
+                        <div class="feature-card" data-nav="titration" style="cursor: pointer;">
+                            <h3>🧪 Titration</h3>
+                            <p>Interactive acid-base titration simulation</p>
+                        </div>
+                        <div class="feature-card" data-nav="periodic-table" style="cursor: pointer;">
+                            <h3>📊 Periodic Table</h3>
+                            <p>Interactive element information lookup</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/navigation.js"></script>
+    <script src="js/learning-guide.js"></script>
+    <script src="js/calculators.js"></script>
+    <script src="js/molecular-viewer.js"></script>
+    <script src="js/gaussian-parser.js"></script>
+    <script src="js/titration.js"></script>
+    <script src="js/periodic-table.js"></script>
+    <script src="js/data-manager.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
+
