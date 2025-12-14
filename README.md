@@ -4,7 +4,7 @@ An interactive web application for learning AP Chemistry with comprehensive cont
 
 ## Features
 
-### 📚 Learning Guide
+### 📚 Study Guide
 - **9 Comprehensive Units** covering all AP Chemistry topics:
   1. Atomic Structure
   2. Molecular Structure
@@ -168,5 +168,6 @@ This project is created for educational purposes.
 
 ## Contributing
 
-Feel free to extend this application with additional features, calculators, or learning content!
+Chongyan Li, Beijing No.4 High School. email: chongyan.li@bhsfic.com
+Song Yun. email: song.yun@bhsfic.com
 
